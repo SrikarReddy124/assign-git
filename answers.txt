@@ -1,4 +1,8 @@
 •What is a gitignore file and what should it include for a Java project?
+ sol) It ignores the files which are not required during the pull.
 •What does fast-forward in Git mean?
+ sol)It just switches the branches without doing any merge commit
 •Why should you have different branches?
+ sol)Simmentaneously different team members can work an their own branch without effecting others work and finally merge it to the original branch 
 •In a project how many remote Git repositories do you usually have?
+ sol)Usually we have 1 repository per project.
